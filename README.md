@@ -13,8 +13,8 @@
     🎯 Amo tecnologia, games, séries.
 
 <div>
-    <a heref="https://github.com/jocelynsouza">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jocelsouza&how_icons=true&theme=algolia&include_all_commits=true&count_public=true"/>
+    <a href="https://github.com/JocelynSouza">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jocelsouza&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocelynsouza&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 
