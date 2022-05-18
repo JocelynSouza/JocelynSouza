@@ -14,7 +14,7 @@
 
 <div>
     <a heref="https://githu.com/jocelynsouza">
-    <img height="180em" src="ttps://github-readme-stats.vercel.app/api?username=jocelsouza&theme=algolia&show_icons=true"/>
-    <img height="180em" src="ttps://github-readme-stats.vercel.app/api/toplangs/?username=jocelynsouza&layout=compact&langs_count=16&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jocelsouza&how_icons=true&theme=algolia&include_all_commits=true&count_public=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocelynsouza&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 
