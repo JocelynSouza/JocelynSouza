@@ -1,16 +1,16 @@
-### Hi there 👋
+📌 Hello, Word! 
 
-<!--
-**JocelynSouza/JocelynSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    🖥 Analista de Suporte Jr.
 
-Here are some ideas to get you started:
+    👩‍💼 26 anos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    📌 Atualmente estudando Lógica de programação, API REST e QA.
+
+    📲 Busco me manter atualizada.
+
+    🦉 Tenho sede de conhecimento, dedicada, procuro dar o meu melhor até mesmo nas coisas simples do dia-a-dia.
+    
+    🎯 Amo tecnologia, games, séries.
+
+
+
