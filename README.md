@@ -12,5 +12,9 @@
     
     🎯 Amo tecnologia, games, séries.
 
-
+<div>
+    <a heref="https://githu.com/jocelynsouza">
+    <img height="180em" src="ttps://github-readme-stats.vercel.app/api?username=jocelsouza&theme=algolia&show_icons=true"/>
+    <img height="180em" src="ttps://github-readme-stats.vercel.app/api/toplangs/?username=jocelynsouza&layout=compact&langs_count=16&theme=algolia"/>
+</div>
 
