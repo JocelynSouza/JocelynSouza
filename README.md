@@ -4,7 +4,7 @@
 
     👩‍💼 26 anos
 
-    📌 Atualmente estudando Lógica de programação, API REST e QA.
+    📌 Atualmente estudando Lógica de programação, API REST e Quality Assurance.
 
     📲 Busco me manter atualizada.
 
