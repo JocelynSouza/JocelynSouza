@@ -10,7 +10,7 @@
 
     🦉 Tenho sede de conhecimento, dedicada, procuro dar o meu melhor até mesmo nas coisas simples do dia-a-dia.
     
-    🎯 Amo tecnologia, games, séries.
+    🎯 Apaixonada por tecnologia, games, séries.
 
 <div>
   <a href="https://github.com/jocelynsouza">
