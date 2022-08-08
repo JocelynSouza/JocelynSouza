@@ -6,9 +6,9 @@
 
     📌 Atualmente estudando Lógica de programação, API REST e Quality Assurance.
 
-    📲 Busco me manter atualizada.
+    :ocean: Mergulhando de cabeça na transição de carreira de Relações Internacionais para área de Tecnologia (Tester).
 
-    🦉 Tenho sede de conhecimento, dedicada, procuro dar o meu melhor até mesmo nas coisas simples do dia-a-dia.
+    🦉 Dedicação, responsabilidade, conhecimento, comunicação são adjetivos que me definem.
     
     🎯 Apaixonada por tecnologia, games, séries.
 
