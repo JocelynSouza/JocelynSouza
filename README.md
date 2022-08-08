@@ -1,14 +1,14 @@
 📌 Hello, Word! 
 
-    🖥 Analista de Suporte Jr.
+    🖥️ Analista de Suporte Jr.
 
     👩‍💼 26 anos
 
     📌 Atualmente estudando Lógica de programação, API REST e Quality Assurance.
 
-    :ocean: Mergulhando de cabeça na transição de carreira de Relações Internacionais para área de Tecnologia (Tester).
+    🌊 Mergulhando de cabeça na transição de carreira de Relações Internacionais para área de Tecnologia (Tester).
 
-    🦉 Dedicação, responsabilidade, conhecimento, comunicação são adjetivos que me definem.
+    🦉 Dedicação, responsabilidade, conhecimento, comunicação são os adjetivos que me definem.
     
     🎯 Apaixonada por tecnologia, games, séries.
 
