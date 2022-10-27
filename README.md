@@ -4,7 +4,7 @@
 
     👩‍💼 26 anos
 
-    📌 Atualmente estudando Lógica de programação, API REST e Quality Assurance.
+    📌 Atualmente estudando Algoritmo, API REST e Quality Assurance.
 
     🌊 Mergulhando de cabeça na transição de carreira de Relações Internacionais para área de Tecnologia (Tester).
 
