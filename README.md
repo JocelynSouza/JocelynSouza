@@ -1,8 +1,8 @@
-📌 Hello, Word! 
+📌 Olá! Me chamo Jocelyn,
 
-    🖥️ Analista de Suporte Jr.
+    🖥️ Sou Analista de Suporte Jr.
 
-    👩‍💼 26 anos
+    👩‍💼 Tenho 26 anos
 
     📌 Atualmente estudando Algoritmo, API REST e Quality Assurance.
 
@@ -10,7 +10,7 @@
 
     🦉 Dedicação, responsabilidade, conhecimento, comunicação são os adjetivos que me definem.
     
-    🎯 Apaixonada por tecnologia, games, séries.
+    🎯 Apaixonada por tecnologia, séries, games.
 
 <div>
   <a href="https://github.com/jocelynsouza">
