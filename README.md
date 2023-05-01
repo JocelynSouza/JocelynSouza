@@ -2,13 +2,13 @@
 
     🖥️ Sou Analista de Suporte Jr.
 
-    👩‍💼 Tenho 26 anos
+    👩‍💼 Tenho 27 anos
 
-    📌 Atualmente estudando Algoritmo, API REST e Quality Assurance.
+    📌 Estou atualmente estudando sobre Algoritmo, API REST e Testes de Software.
 
-    🌊 Mergulhando de cabeça na transição de carreira de Relações Internacionais para área de Tecnologia (Tester).
+    🌊 Estou mergulhando de cabeça na transição de carreira de Relações Internacionais para área de Tecnologia (Tester, Analista de Teste).
 
-    🦉 Dedicação, responsabilidade, conhecimento, comunicação são os adjetivos que me definem.
+    🦉 Sou muito dedicada, responsável, comunicativa, curiosa, perfeccionista, resiliente.
     
     🎯 Apaixonada por tecnologia, séries, games.
 
