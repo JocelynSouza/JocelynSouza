@@ -1,8 +1,8 @@
 📌 Olá! Me chamo Jocelyn,
 
-    🖥️ Sou Analista de Suporte Jr.
+    🖥️ Sou Analista de Suporte Jr/ Analista de Teste
 
-    👩‍💼 Tenho 27 anos
+    👩‍💼 Tenho 28 anos
 
     📌 Estou atualmente estudando sobre Algoritmo, API REST e Testes de Software.
 
